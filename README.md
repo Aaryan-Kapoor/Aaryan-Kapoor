@@ -8,7 +8,7 @@ AI/ML Engineer | Honors College Student @ UNLV
 > **- Nick Bostrom**
 
 
-I’ve built several MVPs for startups, worked on LLM engineering research, and scaled ML project costs from **\$50,000 to \$250** with a **6.7× inference speedup**. I specialize in building **AI agents**, **reasoning-enhanced LLMs**, and **RAG systems** for real-world deployment. I read and implement research papers daily to stay on the cutting edge of AI.
+I’ve built several MVPs for startups, worked on LLM engineering research, and scaled ML project costs from **\$50,000 to \$250,000** with a **6.7× inference speedup**. I specialize in building **AI agents**, **reasoning-enhanced LLMs**, and **RAG systems** for real-world deployment. I read and implement research papers daily to stay on the cutting edge of AI.
 
 ---
 
