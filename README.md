@@ -56,6 +56,7 @@ I’ve built several MVPs for startups, worked on LLM engineering research, and 
 #### **Tools & APIs**
 
 * VS Code, Git, GitHub, Jupyter, Postman
+* Cursor, Windsurf, Replit Agent, Roo Code, Cline, etc.
 * pdfplumber, OpenAI API, Google API, OpenRouter API, Azure Cognitive Services
 * Microsoft Copilot Studio, FastAPI, Flask
 
