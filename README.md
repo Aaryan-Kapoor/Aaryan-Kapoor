@@ -59,10 +59,6 @@ I’ve built several MVPs for startups, worked on LLM engineering research, and 
 * pdfplumber, OpenAI API, Google API, OpenRouter API, Azure Cognitive Services
 * Microsoft Copilot Studio, FastAPI, Flask
 
-#### **Other Tech**
-
-* Raspberry Pi, 3D Printing, PC Building, BIOS tuning, Alexa SDK, Solana blockchain (token dev)
-
 ---
 
 ### 🌱 Currently Learning
