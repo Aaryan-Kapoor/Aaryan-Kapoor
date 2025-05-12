@@ -15,7 +15,7 @@ I’ve built several MVPs for startups, worked on LLM engineering research, and 
 ### 🚀 Projects & Experience
 
 * Built a first of its kind **toggleable reasoning LLM**, replicating DeepSeek's GRPO functionality
-* Created **Xio**, an AI automated voice-to-voice interview agent deployed on Azure with OpenAI & Google APIs
+* Created **Xio**, an AI automated voice-to-voice real-time interview agent with function calling deployed on Azure with OpenAI & Google APIs
 * Delivered 40+ **agentic AI workflows** using CrewAI, LangChain, and OpenRouter
 * Designed secure **USB-deployed LLM tools** for cybersecurity simulations
 * Developed **AI-powered web scraping tools**, reducing processing time by 6.7x
