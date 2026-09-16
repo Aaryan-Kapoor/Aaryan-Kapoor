@@ -7,7 +7,7 @@ I make models do cool stuff for you at scale :)
 **100,000+** model downloads · **5.2M+** views of my technical writing · **1,000+** public GPU-template hours/month · Multi hackathon winner
 
 ### Research Highlights
-- First author, *ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval* - **EMNLP 2026 Main Conference**. Code retrieval that measures whether the code *runs*, not whether it looks right. (Pending Preprint) [Dataset + harness](https://huggingface.co/datasets/AaryanK/ExecRetrieval)
+- First author, *ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval* - **EMNLP 2026 Main Conference**. Code retrieval that measures whether the code *runs*, not whether it looks right. Paper: [arXiv:2609.01865](https://arxiv.org/abs/2609.01865), [Dataset + harness](https://huggingface.co/datasets/AaryanK/ExecRetrieval)
 
 ### Agent systems Highlights
 - **[Surface](https://github.com/Aaryan-Kapoor/Surface)** - a universal display for AI agents. Your agent renders live UI onto any screen you own; every tap, stroke and answer lands back in its context, even hours after the session ended. One CLI + one skill, shared by every agent on the machine. `npm i -g surface-display`
