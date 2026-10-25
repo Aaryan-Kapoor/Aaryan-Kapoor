@@ -10,7 +10,7 @@ I make models do cool stuff for you at scale :)
 - First author, *ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval* - **EMNLP 2026 Main Conference**. Code retrieval that measures whether the code *runs*, not whether it looks right. Paper: [arXiv:2609.01865](https://arxiv.org/abs/2609.01865), [Dataset + harness](https://huggingface.co/datasets/AaryanK/ExecRetrieval)
 
 ### Agent systems Highlights
-- **It** (formerly Surface; private until its next release) - the interface between people and AI agents.
+- **It** (formerly Surface): It lets an AI agent put a live, interactive page on any screen you own, and brings what you do on it back into the conversation. Visit: https://www.itcan.do/
 - **[24hr-research-agent](https://github.com/Aaryan-Kapoor/24hr-research-agent)** - decomposes a question into 200+ tasks and compiles book-length, fully cited reports from 1,000+ sources
 - **[SOTA-Coder](https://github.com/Aaryan-Kapoor/SOTA-coder)** - autonomous coding-agent harness built from scratch: event-driven runtime, WebSocket streaming, dynamic MCP tool loading, no agent-SDK dependencies
 - **[video-production-skill](https://github.com/Aaryan-Kapoor/video-production-skill)**, **[d2l-cli](https://github.com/Aaryan-Kapoor/d2l-cli)** / **[degreeworks-cli](https://github.com/Aaryan-Kapoor/degreeworks-cli)**
