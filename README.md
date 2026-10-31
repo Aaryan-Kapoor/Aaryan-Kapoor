@@ -7,7 +7,7 @@ I make models do cool stuff for you at scale :)
 **100,000+** model downloads · **5.2M+** views on my AI posts · **1,000+** public GPU-template hours/month · Multi hackathon winner
 
 ### Research Highlights
-- First author, *ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval* - **EMNLP 2026 Main Conference**. Code retrieval that measures whether the code *runs*, not whether it looks right. Paper: [arXiv:2609.01865](https://arxiv.org/abs/2609.01865), [Dataset + harness](https://huggingface.co/datasets/AaryanK/ExecRetrieval)
+- First author, *ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval* - **EMNLP 2026 Main Conference**, pp. 55517–55533. Code retrieval that measures whether the code *runs*, not whether it looks right. Paper: [ACL Anthology](https://aclanthology.org/2026.emnlp-main.2448/), [arXiv:2609.01865](https://arxiv.org/abs/2609.01865), [Dataset + harness](https://huggingface.co/datasets/AaryanK/ExecRetrieval)
 
 ### Agent systems Highlights
 - **It** (formerly Surface): It lets an AI agent put a live, interactive page on any screen you own, and brings what you do on it back into the conversation. Visit: https://www.itcan.do/
